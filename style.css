@@ -1,0 +1,122 @@
+html{ 
+	margin:0;
+	padding:0;
+}
+body{
+	font-family: 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', sans-serif;
+	font-size: 20px;
+	color:#035F5F;
+}
+.title{
+	font-size: 35px;
+	text-align:center;
+	color:#035F5F;
+	margin:50px 0 0 0;
+	
+}
+.logo{
+	display:block;
+	margin:50px auto;
+	width:150px;
+	height:150px;
+	
+	overflow:hidden;
+	
+}
+
+.listBoard{
+	width:500px;
+	min-height:300px;
+	margin:0 auto;
+	
+}
+.listBoard h3{
+	font-size: 30px;
+	font-weight: normal;
+	text-align:center;
+	color:#035F5F;
+	margin:5px auto;
+
+}
+.listBoard h4{
+	font-size: 24px;
+	font-weight: normal;
+	text-align:center;
+	color:#035F5F;
+	margin:15px auto;
+
+}
+.listBoard h5{
+	font-size: 18px;
+	font-weight: normal;
+	text-align:center;
+	color:#05799F;
+	margin:15px auto;
+
+}
+ul.myList{
+	
+	padding:0;
+}
+.myList li{
+	
+	font-size: 20px;
+	text-align:center;
+	list-style:none;
+	
+}
+
+.myList a:link,
+.myList a:visited,
+.myList a:active{
+	display:block;
+	color:#035F5F;
+	text-decoration:none;
+	line-height:36px;
+	height:36px;
+
+	-webkit-transition: background 500ms ease-in 0ms, color 500ms ease-in 0ms;
+	-moz-transition: background 500ms ease-in 0ms, color 500ms ease-in 0ms;
+	-ms-transition: background 500ms ease-in 0ms, color 500ms ease-in 0ms;
+	-o-transition: background 500ms ease-in 0ms, color 500ms ease-in 0ms;
+	transition: background 500ms ease-in 0ms, color 500ms ease-in 0ms;
+	
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+}
+
+
+.myList a:hover,
+.myList a:focus{
+	outline:none;	
+	color:white;
+	background:#2AA8BC;
+	-webkit-transition: background 250ms ease-in 0ms, color 250ms ease-in 0ms;
+	-moz-transition: background 250ms ease-in 0ms, color 250ms ease-in 0ms;
+	-ms-transition: background 250ms ease-in 0ms, color 250ms ease-in 0ms;
+	-o-transition: background 250ms ease-in 0ms, color 250ms ease-in 0ms;
+	transition: background 250ms ease-in 0ms, color 250ms ease-in 0ms;
+}
+
+.copyright{
+	margin:40px 0 0 0;
+	height:40px;
+	color:#035F5F;
+	font-family:Tahoma;
+	font-size: 12px;
+	text-align:center;
+}
+
+.copyright a{
+	color:#035F5F;
+	text-decoration:none;
+}
+
+.copyright a:hover,
+.copyright a:focus{
+	outline:none;
+	text-decoration:underline;
+}
