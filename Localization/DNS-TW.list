@@ -1,7 +1,12 @@
-101.101.101.101     //TWNIC Quad101
-168.95.1.1          //Chunghwa Telecom HiNet
-139.175.1.1         //FarEasTone Seednet
-61.31.1.1           //TaiwanFixedNetwor
-140.112.254.4       //National Taiwan University
-140.116.78.60       //National Cheng Kung University
-140.136.224.138     //FuJen Catholic University
+1.1.1.1             *Cloudflare Public DNS
+1.0.0.1             *Cloudflare Public DNS
+8.8.8.8             *Google Public DNS
+9.9.9.9             *IBM Quad9 DNS
+208.67.222.222      *Cisco Open DNS
+101.101.101.101     *TWNIC Quad101
+168.95.1.1          *Chunghwa Telecom HiNet
+139.175.1.1         *FarEasTone Seednet
+61.31.1.1           *TaiwanFixedNetwor
+140.112.254.4       *National Taiwan University
+140.116.78.60       *National Cheng Kung University
+140.136.224.138     *FuJen Catholic University
