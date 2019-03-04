@@ -3,7 +3,7 @@ https://dns.cloudflare.com/dns-query *Cloudflare
 https://dns.quad9.net/dns-query *IBM-Quad9
 https://dns.google.com/resolve *Google
 https://dns.twnic.tw/dns-query *TWNIC-Quad101
-https://neatdns.ustclug.org/resolve *UTSC-LUG
+https://neatdns.ustclug.org/resolve *USTC-LUG
 https://dns.dns-over-https.com/dns-query *NekomimiRouter
 https://dns.rubyfish.cn/dns-query *Rubyfish
 https://doh.blahdns.com/dns-query *Blahdns
